@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/titanling",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/titanling",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

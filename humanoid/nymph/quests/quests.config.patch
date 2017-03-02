@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/stick",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/stick",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

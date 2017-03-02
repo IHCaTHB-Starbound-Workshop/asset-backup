@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/cassan",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/cassan",
+		"value": {
+			"male": "male",
+			"female": "female"
+		}
+	}
+]

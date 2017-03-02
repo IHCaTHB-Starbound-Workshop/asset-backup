@@ -1,0 +1,10 @@
+[
+	{ "op" : "add",
+		"path" : "/species/stick",
+		"value" : {
+			"aiFrames" : "floranai.png",
+			"portraitFrames" : "portraits/floranportrait.png",
+			"staticFrames" : "staticfloran.png"
+		}
+	}
+]

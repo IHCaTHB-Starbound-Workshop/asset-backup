@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/sktest",
+		"value" : [
+		    "/ships/glitch/glitcht0.structure",
+			"/ships/glitch/glitcht1.structure",
+			"/ships/glitch/glitcht2.structure",
+			"/ships/glitch/glitcht3.structure",
+			"/ships/glitch/glitcht4.structure",
+			"/ships/glitch/glitcht5.structure",
+			"/ships/glitch/glitcht6.structure",
+			"/ships/glitch/glitcht7.structure",
+			"/ships/glitch/glitcht8.structure"
+		]
+	}
+]

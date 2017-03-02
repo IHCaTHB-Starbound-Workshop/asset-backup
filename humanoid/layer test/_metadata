@@ -1,0 +1,16 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "[h1]Cassan[/h1]
+
+contains:
+1 race
+completely reworked humanoid sprite
+name generator
+placeholder ship (floran)
+
+Find the server version on [url=https://github.com/IsaacHart/sbmod-cassan]git[/url].",
+  "friendlyName" : "Cassan",
+  "link" : "https://github.com/IsaacHart/sbmod-cassan",
+  "name" : "CASSAN.IHC",
+  "version" : "0.1"
+}
