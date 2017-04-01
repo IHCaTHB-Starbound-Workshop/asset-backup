@@ -1,19 +1,24 @@
-# asset-backup
+# sbmod-
 # attribution
-## Author
+
+## author
 
 IHCaTHB | forum: 714236 | steam: the honey badger
 
-## Credit
+## credit
 
-work based on Starbound by Chucklefish.
+Chucklefish, developer and publisher of Starbound.
 
-made possible by the support the Starbound official forums modding community.
+The Starbound official forums modding community, constant support and just being awesome in general.
 
 and viewers, like you.
 
-## Tools
+## tools
 
-Gimp
+[Gimp](https://www.gimp.org/)
 
-Atom
+[Atom](https://atom.io/)
+
+[Git](https://git-scm.com/)
+
+[GitHub](https://github.com/)
