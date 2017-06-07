@@ -1,0 +1,4 @@
+[
+	{ "op" : "replace", "path" : "/charGenTextLabels",
+		"value" : [ "PLASMA COLOR", "CORONA", "SHIRT", "PANTS", "DEPOSITS COLOR", "BRAND", "SHIRT COLOR", "PANTS COLOR", "NOVAKID", "PERSONALITY" ]}
+]
