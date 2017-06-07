@@ -92,9 +92,9 @@
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
-  "bodyColorAsHairColor" : true,
   "bodyColorAsFacialMaskSubColor" : true,
   "altColorAsFacialMaskSubColor" : true,
+  "altOptionAsFacialMask" : true,
   "genders" : [
     {
       "name" : "male",
@@ -105,20 +105,20 @@
       "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
-      "facialMaskGroup" : "",
-      "facialMask" : [ ]
+      "facialMaskGroup" : "mask",
+      "facialMask" : [ "0" ]
     },
     {
       "name" : "female",
       "image" : "/interface/title/plantfemaleicon.png",
       "characterImage" : "/interface/title/plantfemale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45" ],
+      "hair" : [ "1","1f","1l","2","2f","2l","3","3f","3l","4","4f","4l" ],
       "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest", "protectorateshirtchest", "protectoratevestchest" ],
       "pants" : [ "floranfurnivourlegs", "floranhunterlegs", "floranleaflegs", "floranpeltlegs", "floransurvivalistlegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
-      "facialMaskGroup" : "",
-      "facialMask" : [ ]
+      "facialMaskGroup" : "mask",
+      "facialMask" : [ "0" ]
     }
   ],
   "bodyColor" : [
