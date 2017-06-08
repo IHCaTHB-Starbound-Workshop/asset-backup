@@ -1,0 +1,11 @@
+{
+  "version" : "V9",
+  "author" : "Manic Rykker",
+  "description" : "Pirates! Plunderers! Penguins! The Penguin Piracy Mod greatly expands upon one of Starbound's most infamous races: The penguins. A crafty, yet extremely intelligent race of flightless birds. Don't be fooled by their cute appearance. These cheeky rogues are big fans of mischief! They often deal in blackmarket goods, shady business practices, and space piracy! This mod makes the penguins playable (A race extender is required for the penguin races in this mod to be playable), and adds a ton of new, penguin affiliated content!",
+  "requires" : [],
+  "name" : "PenguinPiracyModfix",
+  "friendlyName" : "PenguinPiracyModfix",
+  "priority" : 1,
+  "link" : "",
+  "includes" : ["PenguinPiracyMod"]
+}
