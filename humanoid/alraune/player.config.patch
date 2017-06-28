@@ -1,0 +1,7 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/defaultCodexes/alraune",
+    "from" : "/defaultCodexes/floran"
+  }
+]
