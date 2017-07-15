@@ -7,8 +7,6 @@ IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
 
 ## credit
 
-[Nintendo], license holder of all [Pokemon] and [Golden Sun] assets.
-
 [Chucklefish], developer and publisher of [Starbound].
 
 [The Starbound official forums modding community], constant support and just being awesome in general.
@@ -25,11 +23,13 @@ and viewers, like you.
 
 [GitHub](https://github.com/)
 
+http://chbrown.github.io/rfc6902/
+
 
 
 [714236]: http://community.playstarbound.com/members/714236
 
-[The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/
+[The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/?appid=211820
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
 
